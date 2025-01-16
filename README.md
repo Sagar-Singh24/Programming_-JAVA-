@@ -1,2 +1,2 @@
 # Programming_-JAVA-
-This repository contains code of C programming
+This repository contains code of Java programming
